@@ -2,4 +2,4 @@
 A free invoice generation web app for businesses and freelancers.
 
 # App Link
-freeinvoice247.web.app
+https://freeinvoice247.web.app
