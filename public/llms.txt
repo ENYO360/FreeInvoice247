@@ -1,0 +1,16 @@
+# Invoicely
+
+> Invoicely is a free online invoice generator. Fill in a form, see a live preview, and download a clean PDF invoice. No sign-up, no watermark. Invoice data stays in the user's browser.
+
+## Key pages
+- [Free Invoice Generator](https://yourdomain.com/): create and download an invoice as PDF
+- [Freelance Invoice Generator](https://yourdomain.com/freelance-invoice-generator): invoices for freelancers and contractors
+- [Invoice Generator for Nigeria](https://yourdomain.com/invoice-generator-nigeria): Naira invoices with VAT (7.5%) support
+- [Receipt Generator](https://yourdomain.com/receipt-generator): simple payment receipts
+- [How to Write an Invoice](https://yourdomain.com/how-to-write-an-invoice): step-by-step guide with a checklist
+
+## Facts
+- Price: free, no account required
+- Currencies: NGN, USD, GBP, EUR, GHS, KES, ZAR, CAD, AUD, INR
+- Output: PDF via the browser print dialog
+- Privacy: invoices are never uploaded; they are stored only in the user's browser
