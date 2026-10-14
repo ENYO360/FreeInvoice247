@@ -69,7 +69,7 @@ export default function InvoicePreview({ inv }) {
           </div>
           <div>
             <p className='text-gray-500 text-xs mt-auto'>Invoice By: </p>
-            <a className='text-blue-500 text-sm' href="www.freeinvoice.web.app">www.freeinvoice.web.app</a>
+            <a className='text-blue-500 text-sm' href="freeinvoice247.web.app">freeinvoice247.web.app</a>
           </div>
         </div>
       )}
